@@ -1,0 +1,10 @@
+dist
+.tmp
+node_modules
+ssh-config.js
+2017-03-08_spotlight-mental-health_cache
+2017-03-08_spotlight-mental-health_files
+2017-03-08_spotlight-mental-health.html
+.Rhistory
+
+*.swp
